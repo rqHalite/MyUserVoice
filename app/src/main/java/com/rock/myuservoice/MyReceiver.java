@@ -25,7 +25,6 @@ import static android.content.Context.NOTIFICATION_SERVICE;
  */
 
 public class MyReceiver extends BroadcastReceiver {
-//    private static final String TAG = MyReceiver.class.getSimpleName();
     private static final int NOTIFICATION_SHOW_SHOW_AT_MOST = 3;   //推送通知最多显示条数
         private static final String TAG = "JPush";
 
